@@ -6,7 +6,7 @@
 #elasmotherium-control:checked ~ .carousel-inner #elasmotherium,
 #glyptodon-control:checked ~ .carousel-inner #glyptodon,
 #megatherium-control:checked ~ .carousel-innner #megatherium {
-  display: none;
+  display: block;
 }
 
 .carousel-btn {
